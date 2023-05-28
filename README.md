@@ -1,4 +1,4 @@
-# kerangka-cypress-lifepal
+# Framework cypress
 ## intall npm
 npm install
 
